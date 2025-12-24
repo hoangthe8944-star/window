@@ -15,7 +15,7 @@ namespace ex1
         Random random = new Random();
         int currentLevelTotalNumbers = 10;
         int nextNumberToClick = 1;
-        int timeLeft = 90; // <<< THAY ĐỔI: Tăng thời gian mặc định lên 90 giây
+        int timeLeft = 1000; // <<< THAY ĐỔI: Tăng thời gian mặc định lên 90 giây
 
         public Form2()
         {

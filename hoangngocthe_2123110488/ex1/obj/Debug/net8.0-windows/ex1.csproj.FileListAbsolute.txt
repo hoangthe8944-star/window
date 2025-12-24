@@ -39,3 +39,4 @@ C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\bin\Debug\net8.0-wi
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.genruntimeconfig.cache
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ref\ex1.dll
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.Khoa.resources
+C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.simplecal.resources

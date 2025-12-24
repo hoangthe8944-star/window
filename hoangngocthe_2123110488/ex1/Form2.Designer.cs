@@ -31,6 +31,7 @@
             components = new System.ComponentModel.Container();
             pnlGameArea = new Panel();
             gameTimer = new System.Windows.Forms.Timer(components);
+            gameTimer.Interval = 1000;
             lblTimer = new Label();
             btnStart = new Button();
             pnlGameArea.SuspendLayout();

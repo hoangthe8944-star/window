@@ -28,6 +28,12 @@ namespace ex1
             Form3 f3 = new Form3();
             f3.Show();
         }
+        private void button4_Click(object sender, EventArgs e)
+        {
+            simplecal f3 = new simplecal();
+            f3.Show();
+        }
+
 
     }
 }

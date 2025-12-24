@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3E405528-302F-42C4-BBB0-4F790FF063DE}|blockblast\\blockblast.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\blockblast\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E405528-302F-42C4-BBB0-4F790FF063DE}|blockblast\\blockblast.csproj|solutionrelative:blockblast\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E405528-302F-42C4-BBB0-4F790FF063DE}|blockblast\\blockblast.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\blockblast\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E405528-302F-42C4-BBB0-4F790FF063DE}|blockblast\\blockblast.csproj|solutionrelative:blockblast\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E405528-302F-42C4-BBB0-4F790FF063DE}|blockblast\\blockblast.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\blockblast\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E405528-302F-42C4-BBB0-4F790FF063DE}|blockblast\\blockblast.csproj|solutionrelative:blockblast\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E405528-302F-42C4-BBB0-4F790FF063DE}|blockblast\\blockblast.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\blockblast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E405528-302F-42C4-BBB0-4F790FF063DE}|blockblast\\blockblast.csproj|solutionrelative:blockblast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\simplecal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\simplecal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\simplecal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\simplecal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,6 +55,114 @@
       "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\simplecal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\simplecal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\adminpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\adminpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\artist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\artist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\song.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\song.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\adminpanel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\adminpanel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\album.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\album.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\album.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\album.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02C60F72-9016-4D0B-B08B-3190734CEAA8}|ex2\\ex2.csproj|solutionrelative:ex2\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,7 +171,7 @@
       "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -35,20 +179,8 @@
       "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\form3.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\ex1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\ex1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,20 +203,40 @@
       "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\form2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\form2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|c:\\users\\ngoc the\\desktop\\window\\hoangngocthe_2123110488\\ex1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A9AE5ED-1C53-4F36-8378-1106FA896186}|ex1\\ex1.csproj|solutionrelative:ex1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\menu.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game\\menu.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\Block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game\\Block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game\\game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,11 +246,547 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\blockblast\\menu.cs",
+              "RelativeDocumentMoniker": "blockblast\\menu.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\blockblast\\menu.cs [Design]",
+              "RelativeToolTip": "blockblast\\menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:09:11.06Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\blockblast\\Program.cs",
+              "RelativeDocumentMoniker": "blockblast\\Program.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\blockblast\\Program.cs",
+              "RelativeToolTip": "blockblast\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:08:28.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\blockblast\\menu.Designer.cs",
+              "RelativeDocumentMoniker": "blockblast\\menu.Designer.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\blockblast\\menu.Designer.cs",
+              "RelativeToolTip": "blockblast\\menu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:08:23.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\Block.cs",
+              "RelativeDocumentMoniker": "game\\Block.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\Block.cs",
+              "RelativeToolTip": "game\\Block.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:03:36.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\Program.cs",
+              "RelativeDocumentMoniker": "game\\Program.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\Program.cs",
+              "RelativeToolTip": "game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T18:58:30.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\blockblast\\menu.cs",
+              "RelativeDocumentMoniker": "blockblast\\menu.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\blockblast\\menu.cs",
+              "RelativeToolTip": "blockblast\\menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T18:31:10.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "game\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\Form1.Designer.cs",
+              "RelativeToolTip": "game\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:04:06.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\menu.cs",
+              "RelativeDocumentMoniker": "game\\menu.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\menu.cs [Design]",
+              "RelativeToolTip": "game\\menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:04:31.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\Form1.resx",
+              "RelativeDocumentMoniker": "game\\Form1.resx",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\Form1.resx",
+              "RelativeToolTip": "game\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-24T19:04:33.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\menu.Designer.cs",
+              "RelativeDocumentMoniker": "game\\menu.Designer.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\menu.Designer.cs",
+              "RelativeToolTip": "game\\menu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:04:39.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "game.csproj",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\game.csproj",
+              "RelativeDocumentMoniker": "game\\game.csproj",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\game.csproj",
+              "RelativeToolTip": "game\\game.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-24T18:58:21.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\Form1.cs",
+              "RelativeDocumentMoniker": "game\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\game\\Form1.cs [Design]",
+              "RelativeToolTip": "game\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T18:58:01.611Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\menu.cs",
+              "RelativeDocumentMoniker": "ex1\\menu.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\menu.cs",
+              "RelativeToolTip": "ex1\\menu.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:14:04.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form1.cs",
+              "RelativeDocumentMoniker": "ex1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form1.cs [Design]",
+              "RelativeToolTip": "ex1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T03:03:16.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form2.cs",
+              "RelativeDocumentMoniker": "ex1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form2.cs [Design]",
+              "RelativeToolTip": "ex1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T03:05:28.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form2.cs",
+              "RelativeDocumentMoniker": "ex1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form2.cs",
+              "RelativeToolTip": "ex1\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T03:59:15.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "ex1\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form2.Designer.cs",
+              "RelativeToolTip": "ex1\\Form2.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T03:48:21.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\menu.Designer.cs",
+              "RelativeDocumentMoniker": "ex1\\menu.Designer.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\menu.Designer.cs",
+              "RelativeToolTip": "ex1\\menu.Designer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAnwFgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:14:01.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "simplecal.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\simplecal.cs",
+              "RelativeDocumentMoniker": "ex1\\simplecal.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\simplecal.cs",
+              "RelativeToolTip": "ex1\\simplecal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T03:23:35.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "simplecal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\simplecal.cs",
+              "RelativeDocumentMoniker": "ex1\\simplecal.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\simplecal.cs [Design]",
+              "RelativeToolTip": "ex1\\simplecal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T03:23:11.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "simplecal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\simplecal.Designer.cs",
+              "RelativeDocumentMoniker": "ex1\\simplecal.Designer.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\simplecal.Designer.cs",
+              "RelativeToolTip": "ex1\\simplecal.Designer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T03:35:04.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "register.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\register.Designer.cs",
+              "RelativeDocumentMoniker": "ex2\\register.Designer.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\register.Designer.cs",
+              "RelativeToolTip": "ex2\\register.Designer.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAnwI0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T03:14:23.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\login.Designer.cs",
+              "RelativeDocumentMoniker": "ex2\\login.Designer.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\login.Designer.cs",
+              "RelativeToolTip": "ex2\\login.Designer.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAnwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T01:20:08.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "adminpanel.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\adminpanel.cs",
+              "RelativeDocumentMoniker": "ex2\\adminpanel.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\adminpanel.cs",
+              "RelativeToolTip": "ex2\\adminpanel.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:48:45.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "artist.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\artist.Designer.cs",
+              "RelativeDocumentMoniker": "ex2\\artist.Designer.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\artist.Designer.cs",
+              "RelativeToolTip": "ex2\\artist.Designer.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAnwOkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T02:45:30.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "song.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\song.Designer.cs",
+              "RelativeDocumentMoniker": "ex2\\song.Designer.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\song.Designer.cs",
+              "RelativeToolTip": "ex2\\song.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAnwCUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T02:59:08.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "register.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\register.cs",
+              "RelativeDocumentMoniker": "ex2\\register.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\register.cs",
+              "RelativeToolTip": "ex2\\register.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA0wCEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T03:12:12.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "adminpanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\adminpanel.Designer.cs",
+              "RelativeDocumentMoniker": "ex2\\adminpanel.Designer.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\adminpanel.Designer.cs",
+              "RelativeToolTip": "ex2\\adminpanel.Designer.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAnwJoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T01:16:18.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\login.cs",
+              "RelativeDocumentMoniker": "ex2\\login.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\login.cs",
+              "RelativeToolTip": "ex2\\login.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T01:20:13.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "user.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\user.Designer.cs",
+              "RelativeDocumentMoniker": "ex2\\user.Designer.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\user.Designer.cs",
+              "RelativeToolTip": "ex2\\user.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T03:07:33.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "user.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\user.cs",
+              "RelativeDocumentMoniker": "ex2\\user.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\user.cs [Design]",
+              "RelativeToolTip": "ex2\\user.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T02:22:57.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\user.cs",
+              "RelativeDocumentMoniker": "ex2\\user.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\user.cs",
+              "RelativeToolTip": "ex2\\user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T03:06:08.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "artist.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\artist.cs",
+              "RelativeDocumentMoniker": "ex2\\artist.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\artist.cs",
+              "RelativeToolTip": "ex2\\artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T02:24:00.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "song.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\song.cs",
+              "RelativeDocumentMoniker": "ex2\\song.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\song.cs",
+              "RelativeToolTip": "ex2\\song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T02:27:52.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "song.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\song.cs",
+              "RelativeDocumentMoniker": "ex2\\song.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\song.cs [Design]",
+              "RelativeToolTip": "ex2\\song.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T02:22:42.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "artist.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\artist.cs",
+              "RelativeDocumentMoniker": "ex2\\artist.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\artist.cs [Design]",
+              "RelativeToolTip": "ex2\\artist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T02:47:20.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "album.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\album.cs",
+              "RelativeDocumentMoniker": "ex2\\album.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\album.cs [Design]",
+              "RelativeToolTip": "ex2\\album.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:39:05.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "adminpanel.resx",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\adminpanel.resx",
+              "RelativeDocumentMoniker": "ex2\\adminpanel.resx",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\adminpanel.resx",
+              "RelativeToolTip": "ex2\\adminpanel.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-19T02:51:43.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "album.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\album.Designer.cs",
+              "RelativeDocumentMoniker": "ex2\\album.Designer.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\album.Designer.cs",
+              "RelativeToolTip": "ex2\\album.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T01:21:12.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "album.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\album.cs",
+              "RelativeDocumentMoniker": "ex2\\album.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\album.cs",
+              "RelativeToolTip": "ex2\\album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T01:10:57.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\login.cs",
+              "RelativeDocumentMoniker": "ex2\\login.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\login.cs [Design]",
+              "RelativeToolTip": "ex2\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:40:45.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "adminpanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\adminpanel.cs",
+              "RelativeDocumentMoniker": "ex2\\adminpanel.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\adminpanel.cs [Design]",
+              "RelativeToolTip": "ex2\\adminpanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:45:25.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "album.resx",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\album.resx",
+              "RelativeDocumentMoniker": "ex2\\album.resx",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\album.resx",
+              "RelativeToolTip": "ex2\\album.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-19T01:32:40.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\Program.cs",
+              "RelativeDocumentMoniker": "ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\Program.cs",
+              "RelativeToolTip": "ex2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:42:03.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\register.cs",
+              "RelativeDocumentMoniker": "ex2\\register.cs",
+              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex2\\register.cs [Design]",
+              "RelativeToolTip": "ex2\\register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T00:42:15.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
               "Title": "login.cs",
               "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\login.cs",
               "RelativeDocumentMoniker": "ex1\\login.cs",
@@ -111,46 +799,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "menu.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\menu.cs",
-              "RelativeDocumentMoniker": "ex1\\menu.cs",
-              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\menu.cs",
-              "RelativeToolTip": "ex1\\menu.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T15:14:04.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "menu.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\menu.Designer.cs",
-              "RelativeDocumentMoniker": "ex1\\menu.Designer.cs",
-              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\menu.Designer.cs",
-              "RelativeToolTip": "ex1\\menu.Designer.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAQwGoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T15:14:01.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 40,
               "Title": "Form3.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form3.Designer.cs",
               "RelativeDocumentMoniker": "ex1\\Form3.Designer.cs",
               "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form3.Designer.cs",
               "RelativeToolTip": "ex1\\Form3.Designer.cs",
-              "ViewState": "AgIAAN0AAAAAAAAAAAAUwOcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T15:41:37.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T15:41:37.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 39,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Program.cs",
               "RelativeDocumentMoniker": "ex1\\Program.cs",
@@ -158,36 +819,33 @@
               "RelativeToolTip": "ex1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAYwBAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T03:51:53.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T03:51:53.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 38,
               "Title": "login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\login.cs",
               "RelativeDocumentMoniker": "ex1\\login.cs",
               "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\login.cs [Design]",
               "RelativeToolTip": "ex1\\login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T15:13:20.359Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-18T15:13:20.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 42,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form3.cs",
               "RelativeDocumentMoniker": "ex1\\Form3.cs",
               "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form3.cs [Design]",
               "RelativeToolTip": "ex1\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T15:29:03.434Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-18T15:29:03.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 41,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form3.cs",
               "RelativeDocumentMoniker": "ex1\\Form3.cs",
@@ -195,86 +853,45 @@
               "RelativeToolTip": "ex1\\Form3.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAADwvxsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T15:39:57.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T15:39:57.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 43,
               "Title": "Form3.resx",
               "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form3.resx",
               "RelativeDocumentMoniker": "ex1\\Form3.resx",
               "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form3.resx",
               "RelativeToolTip": "ex1\\Form3.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-18T16:02:39.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T16:02:39.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form2.cs",
-              "RelativeDocumentMoniker": "ex1\\Form2.cs",
-              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form2.cs [Design]",
-              "RelativeToolTip": "ex1\\Form2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T03:05:28.222Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form1.cs",
-              "RelativeDocumentMoniker": "ex1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form1.cs [Design]",
-              "RelativeToolTip": "ex1\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T03:03:16.441Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 44,
               "Title": "menu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\menu.cs",
               "RelativeDocumentMoniker": "ex1\\menu.cs",
               "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\menu.cs [Design]",
               "RelativeToolTip": "ex1\\menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T02:38:55.3Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-12T02:38:55.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ex1",
-              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\ex1.csproj",
-              "RelativeDocumentMoniker": "ex1\\ex1.csproj",
-              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\ex1.csproj",
-              "RelativeToolTip": "ex1\\ex1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-18T14:22:55.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 46,
               "Title": "login.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\login.Designer.cs",
               "RelativeDocumentMoniker": "ex1\\login.Designer.cs",
               "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\login.Designer.cs",
               "RelativeToolTip": "ex1\\login.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T14:41:04.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T14:41:04.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 47,
               "Title": "register.cs",
               "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\register.cs",
               "RelativeDocumentMoniker": "ex1\\register.cs",
@@ -287,31 +904,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 49,
               "Title": "login.resx",
               "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\login.resx",
               "RelativeDocumentMoniker": "ex1\\login.resx",
               "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\login.resx",
               "RelativeToolTip": "ex1\\login.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-18T14:37:27.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T14:37:27.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 50,
               "Title": "register.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\register.cs",
               "RelativeDocumentMoniker": "ex1\\register.cs",
               "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\register.cs [Design]",
               "RelativeToolTip": "ex1\\register.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T14:23:37.558Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-18T14:23:37.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 48,
               "Title": "register.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\register.Designer.cs",
               "RelativeDocumentMoniker": "ex1\\register.Designer.cs",
@@ -319,46 +934,18 @@
               "RelativeToolTip": "ex1\\register.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T15:09:01.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T15:09:01.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form2.cs",
-              "RelativeDocumentMoniker": "ex1\\Form2.cs",
-              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form2.cs",
-              "RelativeToolTip": "ex1\\Form2.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAQwC4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T03:59:15.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 51,
               "Title": "Form2.resx",
               "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form2.resx",
               "RelativeDocumentMoniker": "ex1\\Form2.resx",
               "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form2.resx",
               "RelativeToolTip": "ex1\\Form2.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-12T03:48:19.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Form2.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form2.Designer.cs",
-              "RelativeDocumentMoniker": "ex1\\Form2.Designer.cs",
-              "ToolTip": "C:\\Users\\Ngoc The\\Desktop\\window\\hoangngocthe_2123110488\\ex1\\Form2.Designer.cs",
-              "RelativeToolTip": "ex1\\Form2.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T03:48:21.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T03:48:19.49Z"
             }
           ]
         }
