@@ -6,28 +6,28 @@ using System.Xml.Linq;
 
 namespace baitap
 {
-    public partial class B5 : Form
+    public partial class Bai5 : Form
     {
         // Danh sách lưu trữ nhân viên (Slide 147)
         List<Employee> lst = new List<Employee>();
 
-        public B5()
+        public Bai5()
         {
             InitializeComponent();
         }
 
         // Chọn ảnh cho nhân viên (Slide 139)
-        //private void btFile_Click(object sender, EventArgs e)
-        //{
-        //    OpenFileDialog dlg = new OpenFileDialog();
-        //    dlg.Title = "Open Image";
-        //    dlg.Filter = "JPEG files (*.jpg)|*.jpg|PNG files (*.png)|*.png|All files (*.*)|*.*";
-        //    if (dlg.ShowDialog() == DialogResult.OK)
-        //    {
-        //        pbImage.ImageLocation = dlg.FileName;
-        //        pbImage.SizeMode = PictureBoxSizeMode.StretchImage;
-        //    }
-        //}
+        private void btFile_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog dlg = new OpenFileDialog();
+            dlg.Title = "Open Image";
+            dlg.Filter = "JPEG files (*.jpg)|*.jpg|PNG files (*.png)|*.png|All files (*.*)|*.*";
+            if (dlg.ShowDialog() == DialogResult.OK)
+            {
+                pbImage.ImageLocation = dlg.FileName;
+                pbImage.SizeMode = PictureBoxSizeMode.StretchImage;
+            }
+        }
 
         // Thêm nhân viên mới (Slide 147)
         private void btAddNew_Click(object sender, EventArgs e)

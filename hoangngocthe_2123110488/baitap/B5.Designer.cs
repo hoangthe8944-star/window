@@ -1,6 +1,6 @@
-﻿namespace baitap
+﻿namespace MyThi_490
 {
-    partial class Bai1
+    partial class B5
     {
         /// <summary>
         /// Required designer variable.

@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace baitap
+namespace MyThi_490
 {
-    public partial class Bai5 : Form
+    public partial class B5 : Form
     {
-        public Bai5()
+        public B5()
         {
             InitializeComponent();
         }

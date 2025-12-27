@@ -38,7 +38,7 @@ namespace baitap
 
             // Tạo tên Form tương ứng (ví dụ: Bai1, Bai25)
             // Lưu ý: "baitap" là namespace của bạn, nếu bạn đổi namespace hãy sửa ở đây
-            string formName = "baitap.Bai" + buttonNumber;
+            string formName = "baitap.B" + buttonNumber;
 
             try
             {

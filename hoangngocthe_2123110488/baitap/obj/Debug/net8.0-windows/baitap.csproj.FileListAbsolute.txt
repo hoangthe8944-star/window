@@ -3,9 +3,6 @@ C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.AssemblyInfoInputs.cache
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.AssemblyInfo.cs
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.csproj.CoreCompileInputs.cache
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.sourcelink.json
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.Bai1.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.Bai2.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.Bai5.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\bin\Debug\net8.0-windows\baitap.exe
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\bin\Debug\net8.0-windows\baitap.deps.json
@@ -46,3 +43,5 @@ C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B9.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.Bai21.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.Bai22.resources
+C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\MyThi_490.B5.resources
+C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B6.resources
