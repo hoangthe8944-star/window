@@ -49,6 +49,7 @@ namespace blockblast
             // --- CẤP ĐỘ 5+: KHỐI KHÓ (CHIẾM DIỆN TÍCH) ---
             if (level >= 5)
             {
+                shapes.Add(new int[,] { { 1 } });  // Vuông 
                 // Khối vuông 3x3 (Cực khó vì chiếm 9 ô)
                 shapes.Add(new int[,] { { 1, 1, 1 }, { 1, 1, 1 }, { 1, 1, 1 } });
 

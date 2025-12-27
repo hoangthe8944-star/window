@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="B5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B28.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B26.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B27.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bai5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="B12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

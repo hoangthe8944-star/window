@@ -16,27 +16,3 @@ D:\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\refint\ex1.dll
 D:\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.pdb
 D:\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.genruntimeconfig.cache
 D:\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ref\ex1.dll
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.Form1.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.Form2.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.login.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.menu.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.Properties.Resources.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.register.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.csproj.GenerateResource.cache
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.AssemblyInfoInputs.cache
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.AssemblyInfo.cs
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.csproj.CoreCompileInputs.cache
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.sourcelink.json
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.dll
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\refint\ex1.dll
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.pdb
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\bin\Debug\net8.0-windows\ex1.exe
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\bin\Debug\net8.0-windows\ex1.deps.json
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\bin\Debug\net8.0-windows\ex1.runtimeconfig.json
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\bin\Debug\net8.0-windows\ex1.dll
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\bin\Debug\net8.0-windows\ex1.pdb
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.genruntimeconfig.cache
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ref\ex1.dll
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.Khoa.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\ex1\obj\Debug\net8.0-windows\ex1.simplecal.resources
