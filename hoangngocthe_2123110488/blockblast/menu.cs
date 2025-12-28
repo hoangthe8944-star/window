@@ -31,6 +31,8 @@ namespace blockblast
             // THÊM GAME VÀO ĐÂY: Chỉ cần thêm dòng AddGameToMenu
             AddGameToMenu("Break Block", () => { /* Đang ở đây rồi */ });
             AddGameToMenu("Number Game", () => OpenOtherGame(new numbergame()));
+            AddGameToMenu("Tetris", () => OpenOtherGame(new tetris()));
+
 
             // Sau này muốn thêm game khác chỉ cần:
             // AddGameToMenu("Bắn gà", () => OpenOtherGame(new banGaForm()));

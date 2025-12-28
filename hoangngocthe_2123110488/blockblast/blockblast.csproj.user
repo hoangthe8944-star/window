@@ -7,5 +7,8 @@
     <Compile Update="menu.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="tetris.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

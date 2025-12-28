@@ -10,7 +10,6 @@ C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\blockblast\obj\Debug\ne
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\blockblast\obj\Debug\net8.0-windows\blockblast.AssemblyInfoInputs.cache
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\blockblast\obj\Debug\net8.0-windows\blockblast.AssemblyInfo.cs
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\blockblast\obj\Debug\net8.0-windows\blockblast.csproj.CoreCompileInputs.cache
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\blockblast\obj\Debug\net8.0-windows\blockblast.sourcelink.json
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\blockblast\obj\Debug\net8.0-windows\blockblast.dll
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\blockblast\obj\Debug\net8.0-windows\refint\blockblast.dll
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\blockblast\obj\Debug\net8.0-windows\blockblast.pdb
@@ -21,3 +20,4 @@ C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\blockblast\bin\Debug\ne
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\blockblast\bin\Debug\net8.0-windows\score.wav
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\blockblast\obj\Debug\net8.0-windows\ex1.numbergame.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\blockblast\obj\Debug\net8.0-windows\blockblast.Bai16.resources
+C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\blockblast\obj\Debug\net8.0-windows\blockblast.tetris.resources
