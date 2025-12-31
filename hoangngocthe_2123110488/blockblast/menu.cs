@@ -38,7 +38,7 @@ namespace blockblast
             // AddGameToMenu("Bắn gà", () => OpenOtherGame(new banGaForm()));
 
             ctxGameMenu.Items.Add(new ToolStripSeparator());
-            AddGameToMenu("Thoát ứng dụng", () => Application.Exit());
+            AddGameToMenu("EXIT", () => Application.Exit());
         }
 
         private void AddGameToMenu(string gameName, Action openAction)

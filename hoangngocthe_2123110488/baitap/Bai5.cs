@@ -17,17 +17,17 @@ namespace baitap
         }
 
         // Chọn ảnh cho nhân viên (Slide 139)
-        private void btFile_Click(object sender, EventArgs e)
-        {
-            OpenFileDialog dlg = new OpenFileDialog();
-            dlg.Title = "Open Image";
-            dlg.Filter = "JPEG files (*.jpg)|*.jpg|PNG files (*.png)|*.png|All files (*.*)|*.*";
-            if (dlg.ShowDialog() == DialogResult.OK)
-            {
-                pbImage.ImageLocation = dlg.FileName;
-                pbImage.SizeMode = PictureBoxSizeMode.StretchImage;
-            }
-        }
+        //private void btFile_Click(object sender, EventArgs e)
+        //{
+        //    OpenFileDialog dlg = new OpenFileDialog();
+        //    dlg.Title = "Open Image";
+        //    dlg.Filter = "JPEG files (*.jpg)|*.jpg|PNG files (*.png)|*.png|All files (*.*)|*.*";
+        //    if (dlg.ShowDialog() == DialogResult.OK)
+        //    {
+        //        pbImage.ImageLocation = dlg.FileName;
+        //        pbImage.SizeMode = PictureBoxSizeMode.StretchImage;
+        //    }
+        //}
 
         // Thêm nhân viên mới (Slide 147)
         private void btAddNew_Click(object sender, EventArgs e)

@@ -5,7 +5,7 @@ using System.Xml.Linq;
 
 namespace baitap
 {
-    public partial class B20 : Form
+    public partial class B20: Form
     {
         List<Employee> lstEmp = new List<Employee>();
         BindingSource bs = new BindingSource();

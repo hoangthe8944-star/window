@@ -25,9 +25,6 @@
     <Compile Update="B26.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="B5.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="Bai18.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -40,7 +37,7 @@
     <Compile Update="Bai20.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Bai21.cs">
+    <Compile Update="B1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Bai22.cs">

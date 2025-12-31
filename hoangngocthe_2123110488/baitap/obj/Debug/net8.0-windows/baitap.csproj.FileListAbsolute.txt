@@ -41,7 +41,6 @@ C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\MyThi_490.Baitap.Bai3.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B8.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B9.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.Bai21.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.Bai22.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\MyThi_490.B5.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B6.resources
+C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B1.resources
