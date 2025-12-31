@@ -1,6 +1,6 @@
 ﻿namespace baitap
 {
-    partial class Bai20
+    partial class B4
     {
         private System.ComponentModel.IContainer components = null;
 
@@ -17,17 +17,19 @@
         {
             this.SuspendLayout();
             // 
-            // Bai20
+            // Bai23
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(282, 253); // Kích thước mặc định ban đầu
-            this.Name = "Bai20";
-            this.Text = "Bai20";
+            this.ClientSize = new System.Drawing.Size(300, 300);
+            this.Name = "Bai4";
+            // Quan trọng: Phải là Manual để có thể tự áp dụng tọa độ Location khi Load
+            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
+            this.Text = "Bai4 - Article 03";
 
-            // QUAN TRỌNG: Đây là đoạn code kết nối sự kiện từ giao diện vào code xử lý
-            this.Load += new System.EventHandler(this.Bai20_Load);
-            this.ResizeEnd += new System.EventHandler(this.Bai20_ResizeEnd);
+            // Đăng ký các sự kiện
+            this.Load += new System.EventHandler(this.B4_Load);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.B4_FormClosing);
 
             this.ResumeLayout(false);
         }

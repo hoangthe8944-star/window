@@ -2,9 +2,9 @@
 using System.Windows.Forms;
 namespace baitap
 {
-    public partial class Bai20 : Form
+    public partial class B0 : Form
     {
-        public Bai20()
+        public B0()
         {
             InitializeComponent();
         }

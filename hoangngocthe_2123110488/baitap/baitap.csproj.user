@@ -22,10 +22,7 @@
     <Compile Update="B28.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="B26.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Bai18.cs">
+    <Compile Update="B25.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="B27.cs">
@@ -34,19 +31,19 @@
     <Compile Update="B6.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Bai20.cs">
+    <Compile Update="B0.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="B1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Bai22.cs">
+    <Compile Update="B3.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Bai23.cs">
+    <Compile Update="B4.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Bai24.cs">
+    <Compile Update="B5.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="B13.cs">
@@ -85,7 +82,7 @@
     <Compile Update="B12.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Bai5.cs">
+    <Compile Update="B26.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="menu.cs">

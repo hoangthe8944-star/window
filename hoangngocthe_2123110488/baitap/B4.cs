@@ -6,12 +6,12 @@ using System.Drawing;
 
 namespace baitap
 {
-    public partial class Bai23 : Form
+    public partial class B4 : Form
     {
         string path = @"D:\form.xml";
         InfoWindow iw = new InfoWindow();
 
-        public Bai23()
+        public B4()
         {
             InitializeComponent();
         }
@@ -36,7 +36,7 @@ namespace baitap
         }
 
         // Khi mở ứng dụng: Đọc và khôi phục Kích thước + Vị trí
-        private void Bai23_Load(object sender, EventArgs e)
+        private void B4_Load(object sender, EventArgs e)
         {
             try
             {
@@ -52,7 +52,7 @@ namespace baitap
         }
 
         // Khi đóng ứng dụng: Lưu lại toàn bộ trạng thái hiện tại
-        private void Bai23_FormClosing(object sender, FormClosingEventArgs e)
+        private void B4_FormClosing(object sender, FormClosingEventArgs e)
         {
             iw.Width = this.Size.Width;
             iw.Height = this.Size.Height;

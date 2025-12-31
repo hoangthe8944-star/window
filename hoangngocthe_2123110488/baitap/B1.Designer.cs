@@ -22,8 +22,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(400, 300);
-            this.Name = "Bai21";
-            this.Text = "Bai21 - XML Serialization";
+            this.Name = "Bai1";
+            this.Text = "Bai1 - XML Serialization";
 
             // ĐĂNG KÝ SỰ KIỆN Ở ĐÂY
             this.Load += new System.EventHandler(this.Bai1_Load);

@@ -5,11 +5,11 @@ using System.Windows.Forms;
 
 namespace baitap
 {
-    public partial class Bai22 : Form
+    public partial class B3 : Form
     {
         string path = @"D:\form.xml";
 
-        public Bai22()
+        public B3()
         {
             InitializeComponent();
         }
@@ -34,7 +34,7 @@ namespace baitap
         }
 
         // Khi kết thúc thay đổi kích thước -> Ghi lại kích thước mới vào file
-        private void Bai22_ResizeEnd(object sender, EventArgs e)
+        private void B3_ResizeEnd(object sender, EventArgs e)
         {
             InfoWindow iw = new InfoWindow();
             iw.Width = this.Size.Width;
@@ -43,7 +43,7 @@ namespace baitap
         }
 
         // Khi Form vừa Load -> Đọc file XML để khôi phục kích thước cũ
-        private void Bai22_Load(object sender, EventArgs e)
+        private void B3_Load(object sender, EventArgs e)
         {
             try
             {

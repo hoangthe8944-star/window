@@ -4,9 +4,9 @@ using System.Windows.Forms;
 
 namespace baitap
 {
-    public partial class Bai24 : Form
+    public partial class B5 : Form
     {
-        public Bai24()
+        public B5()
         {
             InitializeComponent();
         }

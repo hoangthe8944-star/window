@@ -3,7 +3,6 @@ C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.AssemblyInfoInputs.cache
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.AssemblyInfo.cs
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.csproj.CoreCompileInputs.cache
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.Bai5.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\bin\Debug\net8.0-windows\baitap.exe
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\bin\Debug\net8.0-windows\baitap.deps.json
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\bin\Debug\net8.0-windows\baitap.runtimeconfig.json
@@ -14,11 +13,7 @@ C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.pdb
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.genruntimeconfig.cache
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\ref\baitap.dll
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.Bai18.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.menu.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.Bai20.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.Bai23.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.Bai24.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap..resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B10.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B11.resources
@@ -35,12 +30,15 @@ C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B22.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B23.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B24.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B26.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B27.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B28.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\MyThi_490.Baitap.Bai3.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B8.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B9.resources
-C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.Bai22.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B6.resources
 C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B1.resources
+C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B0.resources
+C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B3.resources
+C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B4.resources
+C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B5.resources
+C:\Users\Ngoc The\Desktop\window\hoangngocthe_2123110488\baitap\obj\Debug\net8.0-windows\baitap.B25.resources

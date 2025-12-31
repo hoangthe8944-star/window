@@ -1,6 +1,6 @@
 ﻿namespace baitap
 {
-    partial class Bai18
+    partial class B25
     {
         private System.ComponentModel.IContainer components = null;
 
@@ -17,15 +17,15 @@
         {
             this.SuspendLayout();
             // 
-            // Bai18
+            // Bai17
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(700, 500);
-            this.Name = "Bai18";
+            this.ClientSize = new System.Drawing.Size(600, 400);
+            this.Name = "Bai17";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Catch Egg";
-            this.Load += new System.EventHandler(this.Bai18_Load);
+            this.Text = "Game";
+            this.Load += new System.EventHandler(this.Bai17_Load);
             this.ResumeLayout(false);
         }
     }

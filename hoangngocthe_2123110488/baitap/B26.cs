@@ -6,60 +6,59 @@ namespace baitap
 {
     public partial class B26 : Form
     {
-        // Khai báo các thành phần và biến theo đúng slide của bạn
-        PictureBox pb = new PictureBox();
-        System.Windows.Forms.Timer tmGame = new System.Windows.Forms.Timer();
-        int xBall = 0;
-        int yBall = 0;
-        int xDelta = 5;
-        int yDelta = 5;
+        PictureBox pbEgg = new PictureBox();
+        System.Windows.Forms.Timer tmEgg = new System.Windows.Forms.Timer();
+
+        int xEgg = 300;
+        float yEgg = 0;
+
+        float speedY = 0f;      // vận tốc
+        float gravity = 0.25f;  // gia tốc (giảm số này = mượt hơn)
 
         public B26()
         {
             InitializeComponent();
         }
 
-        // Sự kiện khi Form load (Khởi tạo game)
-        private void Bai17_Load(object sender, EventArgs e)
+        private void Bai18_Load(object sender, EventArgs e)
         {
-            // Thiết lập Timer
-            tmGame.Interval = 10;
-            tmGame.Tick += tmGame_Tick;
-            tmGame.Start();
+            tmEgg.Interval = 15;   // chậm hơn chút cho mượt
+            tmEgg.Tick += tmEgg_Tick;
+            tmEgg.Start();
 
-            // Thiết lập PictureBox (Quả bóng)
-            pb.SizeMode = PictureBoxSizeMode.StretchImage;
-            pb.Size = new Size(100, 100);
-            pb.Location = new Point(xBall, yBall);
+            pbEgg.SizeMode = PictureBoxSizeMode.StretchImage;
+            pbEgg.Size = new Size(100, 100);
+            pbEgg.Location = new Point(xEgg, (int)yEgg);
+            pbEgg.BackColor = Color.Transparent;
+            this.Controls.Add(pbEgg);
 
-            // Chú ý: Bạn cần có file ball.png tại ổ D hoặc đổi đường dẫn ảnh thực tế trên máy bạn
-            pb.ImageLocation = @"d:\Images\ball.png";
-
-            // Thêm quả bóng vào Form
-            this.Controls.Add(pb);
+            try
+            {
+                pbEgg.ImageLocation = @"d:\Images\egg2.png";
+            }
+            catch { }
         }
 
-        // Hàm xử lý di chuyển bóng mỗi khi Timer "tích tắc" (Tick)
-        void tmGame_Tick(object sender, EventArgs e)
+        private void tmEgg_Tick(object sender, EventArgs e)
         {
-            // Cập nhật tọa độ
-            xBall += xDelta;
-            yBall += yDelta;
+            speedY += gravity;     // tăng tốc dần
+            yEgg += speedY;
 
-            // Kiểm tra va chạm cạnh Trái/Phải để đổi hướng (Bật lại)
-            if (xBall > this.ClientSize.Width - pb.Width || xBall <= 0)
+            // Chạm đất
+            if (yEgg >= this.ClientSize.Height - pbEgg.Height)
             {
-                xDelta = -xDelta;
+                yEgg = this.ClientSize.Height - pbEgg.Height;
+
+                try
+                {
+                    pbEgg.ImageLocation = @"d:\Images\egg.png";
+                }
+                catch { }
+
+                tmEgg.Stop(); // dừng khi vỡ → giống game
             }
 
-            // Kiểm tra va chạm cạnh Trên/Dưới để đổi hướng
-            if (yBall > this.ClientSize.Height - pb.Height || yBall <= 0)
-            {
-                yDelta = -yDelta;
-            }
-
-            // Cập nhật vị trí hiển thị mới của quả bóng
-            pb.Location = new Point(xBall, yBall);
+            pbEgg.Location = new Point(xEgg, (int)yEgg);
         }
     }
 }
